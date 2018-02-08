@@ -29,6 +29,7 @@ class BeerListPage extends Component{
                     return(
                       <ListRow
                         content={row.name}
+                        tagline={row.tagline}
                         onClick={() => goToProfile(row.id)}
                         key={row.id}
                       />
