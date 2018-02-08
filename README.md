@@ -11,7 +11,7 @@ $ npm install
 $ npm start
 ```
 
-##deploy
+## deploy
 1. Edite o atributo "homepage" presente no arquivo package.json.
 ```
 {
