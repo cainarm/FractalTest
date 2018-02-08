@@ -32,6 +32,7 @@
   "author": "Cainã",
   "license": "MIT",
   "dependencies": {
+    "axios": "0.17.1",
     "chai": "4.1.2",
     "fetch-mock": "6.0.0",
     "istanbul": "0.4.5",
